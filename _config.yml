@@ -1,0 +1,23 @@
+name: JoelRichardson
+favicon: null
+layout_spectrum: 0.3635950149036944
+typography_spectrum: 0.38611589721404016
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.16455787932500243
+  lightness: 0.804653596598655
+  saturation: 0.7232662909664214
+  rhythmicContrast: 0.7899628228042275
+purpose: []
